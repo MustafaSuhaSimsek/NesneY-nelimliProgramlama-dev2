@@ -1,0 +1,22 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Sayfa -1" id="vSxL7-DtQrjkNd_Kk9iL">
+    <mxGraphModel dx="1098" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qcn0JLcg2x0I9Ce3tOHN-1" value="Stopwatch" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="10" width="160" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Qcn0JLcg2x0I9Ce3tOHN-2" value="&lt;p data-path-to-node=&quot;3,2,1,0&quot;&gt;- startTime: long&lt;/p&gt;&lt;p data-path-to-node=&quot;3,2,1,2&quot;&gt;- endTime: long&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Qcn0JLcg2x0I9Ce3tOHN-1">
+          <mxGeometry y="26" width="160" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="Qcn0JLcg2x0I9Ce3tOHN-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Qcn0JLcg2x0I9Ce3tOHN-1">
+          <mxGeometry y="100" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Qcn0JLcg2x0I9Ce3tOHN-4" value="&lt;p data-path-to-node=&quot;3,3,1,0&quot;&gt;+ Stopwatch()&lt;/p&gt;&lt;p data-path-to-node=&quot;3,3,1,2&quot;&gt;+ getStartTime(): long&lt;/p&gt;&lt;p data-path-to-node=&quot;3,3,1,4&quot;&gt;+ getEndTime(): long&lt;/p&gt;&lt;p data-path-to-node=&quot;3,3,1,6&quot;&gt;+ start(): void&lt;/p&gt;&lt;p data-path-to-node=&quot;3,3,1,8&quot;&gt;+ stop(): void&lt;/p&gt;&lt;p data-path-to-node=&quot;3,3,1,10&quot;&gt;+ getElapsedTime(): long&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Qcn0JLcg2x0I9Ce3tOHN-1">
+          <mxGeometry y="108" width="160" height="192" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

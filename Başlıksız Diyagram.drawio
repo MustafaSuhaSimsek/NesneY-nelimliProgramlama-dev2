@@ -1,0 +1,22 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Sayfa -1" id="ZWjw-UuuYgRNfKBvCSvr">
+    <mxGraphModel dx="1098" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Kc5Qf-RryNqCnT7AKBfm-1" value="LinearEquation" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="150" width="160" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Kc5Qf-RryNqCnT7AKBfm-2" value="&lt;p data-path-to-node=&quot;3,2,1,0&quot;&gt;- a: double&lt;/p&gt;&lt;p data-path-to-node=&quot;3,2,1,2&quot;&gt;- b: double&lt;/p&gt;&lt;p data-path-to-node=&quot;3,2,1,4&quot;&gt;- c: double&lt;/p&gt;&lt;p data-path-to-node=&quot;3,2,1,6&quot;&gt;- d: double&lt;/p&gt;&lt;p data-path-to-node=&quot;3,2,1,8&quot;&gt;- e: double&lt;/p&gt;&lt;p data-path-to-node=&quot;3,2,1,10&quot;&gt;- f: double&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Kc5Qf-RryNqCnT7AKBfm-1">
+          <mxGeometry y="26" width="160" height="184" as="geometry" />
+        </mxCell>
+        <mxCell id="Kc5Qf-RryNqCnT7AKBfm-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Kc5Qf-RryNqCnT7AKBfm-1">
+          <mxGeometry y="210" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Kc5Qf-RryNqCnT7AKBfm-4" value="&lt;p data-path-to-node=&quot;3,3,1,0&quot;&gt;+ LinearEquation(a: double, b: double, c: double, d: double, e: double, f: double)&lt;/p&gt;&lt;p data-path-to-node=&quot;3,3,1,2&quot;&gt;+ getA(): double&lt;/p&gt;&lt;p data-path-to-node=&quot;3,3,1,4&quot;&gt;+ getB(): double&lt;/p&gt;&lt;p data-path-to-node=&quot;3,3,1,6&quot;&gt;+ getC(): double&lt;/p&gt;&lt;p data-path-to-node=&quot;3,3,1,8&quot;&gt;+ getD(): double&lt;/p&gt;&lt;p data-path-to-node=&quot;3,3,1,10&quot;&gt;+ getE(): double&lt;/p&gt;&lt;p data-path-to-node=&quot;3,3,1,12&quot;&gt;+ getF(): double&lt;/p&gt;&lt;p data-path-to-node=&quot;3,3,1,14&quot;&gt;+ isSolvable(): boolean&lt;/p&gt;&lt;p data-path-to-node=&quot;3,3,1,16&quot;&gt;+ getX(): double&lt;/p&gt;&lt;p data-path-to-node=&quot;3,3,1,18&quot;&gt;+ getY(): double&lt;/p&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Kc5Qf-RryNqCnT7AKBfm-1">
+          <mxGeometry y="218" width="160" height="322" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
